@@ -1,0 +1,161 @@
+.box1
+{
+        background-color: #B3B3B3;
+        font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size : 8pt;
+}
+
+.boxHead1
+{
+        background-color: #CECE00;
+        text-transform: uppercase;
+        font-style: normal;
+        font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+        font-weight : bold;
+        font-size : 8pt;
+}
+
+.boxAction1
+{
+        background-color: #EEEEEE;
+		
+        font-style: normal;
+        font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+        font-weight : bold;
+        font-size : 8pt;
+}
+ 
+.boxItem1
+{
+	background-color: #FFFFFF;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 8pt;
+	vertical-align : top;
+}
+ 
+.boxItem0
+{
+	background-color: #EFEFEF;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 8pt;
+	vertical-align : top;
+}
+ 
+.boxInfo1
+{
+	background-color: #CCFF33;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 8pt;
+	vertical-align : top;
+	font-weight : bold;
+}
+ 
+.boxStatus1
+{ 
+        background-color: #999999;
+        font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+        color : #FFFFFF;
+        font-weight : bold;
+         font-size : 8pt;
+}
+
+.boxError1
+{ 
+        background-color: #EEEEEE;
+        font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+        color : #FF3333;
+        font-weight : bold;
+         font-size : 8pt;
+}
+
+.boxSubmit1
+{ 
+    text-align: center;
+        background-color: #CCCCCC;
+        font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+         font-size : 8pt;
+}
+
+a
+{
+        font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+        font-size : 8pt;
+        color : #003163;
+        font-weight : bold;
+        text-decoration:none;
+}
+
+a:hover
+{
+        font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+        font-size : 8pt;
+        color : #9C6300;
+        font-weight : bold;
+        text-decoration : underline;
+}
+
+body
+{
+        font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+        font-size : 8pt;
+        color : #003163;
+}
+
+th
+{
+	background : #585858;
+	color : White;
+}
+
+.address
+{
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 8pt;
+	vertical-align : top;
+}
+
+.error
+{
+	background-color: #FF3333;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	color : #FFFFFF;
+	font-weight : bold;
+	font-size : 12pt;
+    text-transform: uppercase;
+}
+
+.exception
+{
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	color : #EEEEEE;
+	font-weight : normal;
+	font-size : 8pt;
+	text-align : justify;
+}
+
+.info
+{
+        font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+        font-size : 8pt;
+        color : #003163;
+        font-weight : bold;
+        text-decoration:none;
+}
+
+li
+{
+        font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+        font-size : 8pt;
+        color : #003163;
+        font-weight : normal;
+        text-decoration:none;
+}
+
+.small
+{
+        font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+        font-size : 8pt;
+        color : #003163;
+        font-weight : normal;
+        text-decoration:none;
+}

@@ -1,0 +1,40 @@
+
+a
+{
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 8pt;
+	color : #003163;
+	font-weight : normal;
+	text-decoration:none;
+}
+
+a:hover
+{
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 8pt;
+	color : Lime;
+	font-weight : normal;
+	text-decoration : none;
+}
+
+body
+{
+        font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+        font-size : 8pt;
+        color : #003163;
+}
+
+td
+{
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size : 8pt;
+	background : #EEEEEE;
+	color : #000000;
+}
+
+.copyright
+{
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size : 7pt;
+    color : #000000;
+}
