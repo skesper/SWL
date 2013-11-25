@@ -150,7 +150,7 @@
         </TR>
         <TR>
             <TD colspan='4' class='small' valign="bottom" align="center">
-            Bankverbindung: Volksbank Lahnstein eG,  BIC: GENODE51DIE, IBAN: DE14570928000201281806</TD>
+            Bankverbindung: Volksbank Lahnstein eG,  BIC: GENODE51DIE, IBAN: DE74570928000201281806</TD>
         </TR>
         </TABLE>
 </body>
